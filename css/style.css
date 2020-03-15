@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Teko&display=swap');
+
+/*
+
+    ====== navigation ======
+
+*/
+
+
+.navbar a{
+    color: #fff;
+}
+
+/*
+
+=========== hero section ===========
+
+*/
+
+.herobg {
+    background: #191B1F;
+}
+
+.hrmr{
+    margin-top: 10%;
+    margin-bottom:10%;
+    margin-left: 10%;
+}
+
+.hrmr h1{
+    color: #FFDC02;
+    text-transform: uppercase;
+    font-family: 'Teko', sans-serif;
+    font-size: 90px;
+    
+}
+.hrmr p{
+    color: #fff;
+}
+.hrmr a {
+    color: #fff;
+    padding: 10px 20px;
+    border: 2px solid #fff;
+    border-radius: 25px;
+    text-decoration: none;
+    margin-bottom: 5%;
+    float: left;
+}
+
+/*
+======== Yellow text section =======
+
+*/
+
+.yltxtbg {
+    background: #FFDC02;
+}
+.yltxtmr {
+    margin-top:5%;
+    margin-bottom:4%;
+}
+.yltxtmr p{
+    font-size: 18px;
+}
+
+/*
+======== know section =======
+
+*/
+
+.knmr {
+    margin-top: 10%;
+    margin-bottom:5%;
+}
+
+.knmr a {
+    color: black;
+    background: #FFDC02; 
+    padding: 15px 15px;
+    font-size: 30px;
+}
+.knmr h1{
+    color: #FFDC02;
+    padding-top: 5%;
+    font-family: 'Teko', sans-serif;
+    font-size: 50px;
+}
+
+.knmr2 {
+    margin-bottom:5%;
+}
+.knmr2 a{
+    color: black;
+    text-decoration: none;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    border: 2px solid #FFDC02;
+    border-radius: 15px;
+}
+
+
+/*
+======= countdown ========
+
+*/
+
+.cnbg{
+    background: #191B1F;
+}
+
+.cnmr{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.cnmr h2{
+    color: #fff;
+}
+.cnmr p{
+    color: #F8E35B;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.cnmr a{
+    color: #FFDC02;
+    font-size: 30px;
+    padding-bottom: 5%;
+}
+
+/*
+
+==================== work so far ============
+
+*/
+
+.wkfr{
+    margin-top: 10%;
+    margin-bottom: 2%;
+}
+.wkfr h1{
+    color: #FFDC02;
+    text-transform: uppercase;
+}
+.sof{
+    margin-top: 5%;
+    margin-bottom: 15%;
+}
+.sof a{
+    color: black;
+    padding: 10px 15px;
+    border: 2px solid #FFDC02;
+    text-decoration: none;
+}
+.sof a:hover{
+    background: #FFDC02;
+}
+
+
+/*
+
+======= font-family: 'Teko', sans-serif; =========
+
+*/
+
+
